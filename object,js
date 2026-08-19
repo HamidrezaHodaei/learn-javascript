@@ -1,0 +1,6 @@
+const myTask = { 
+title : 'learn java script' , 
+completed: false, 
+};
+console.log(myTask); 
+console.log(myTask.title);
